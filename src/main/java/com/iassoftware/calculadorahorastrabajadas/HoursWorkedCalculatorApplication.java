@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CalculadorahorastrabajadasApplication {
+public class HoursWorkedCalculatorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CalculadorahorastrabajadasApplication.class, args);
+		SpringApplication.run(HoursWorkedCalculatorApplication.class, args);
 	}
 
 }
